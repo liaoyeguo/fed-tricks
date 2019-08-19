@@ -1,0 +1,23 @@
+{
+  "name": "fed-tricks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liaoyeguo/fed-tricks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liaoyeguo/fed-tricks/issues"
+  },
+  "homepage": "https://github.com/liaoyeguo/fed-tricks#readme"
+}
