@@ -1,4 +1,4 @@
-let _ = _ || {};
+import _ from "../index";
 
 _.instanceOf = (object, constructor) => {
   let proto = object.__proto__;
